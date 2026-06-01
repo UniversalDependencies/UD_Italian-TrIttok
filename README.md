@@ -31,7 +31,7 @@ I would like to thank Ludovica Pannitto and Flavio Pisciotta for the support thr
 ## References
 
 For referring to the treebank (as for the Ittok corpus):
-
+...
 @inproceedings{troncone-2025-building,
     title = "Building It-tok: an Italian TikTok Corpus",
     author = "Troncone, Luisa",
@@ -40,7 +40,7 @@ For referring to the treebank (as for the Ittok corpus):
     note = "Pre-print available on ResearchGate",
     url = "https://www.researchgate.net/publication/396559002_Building_It-tok_an_Italian_TikTok_corpus"
 }
-
+...
 
 # Changelog
 
